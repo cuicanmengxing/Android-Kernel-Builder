@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "repo": "https://github.com/oppo-source/A3-8.1-kernel-source",
+      "branch": "master",
+      "device": "oppo6771_17197"
     },
     "withKernelSU": true,
     "toolchains": [
